@@ -1,0 +1,154 @@
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC Auslese-Logdatei vom 13. Mai 2008, 10:31
+
+Efdemin / Efdemin
+
+Benutztes Laufwerk : HL-DT-STDVDRAM GSA-H10N   Adapter: 0  ID: 1
+
+Lesemodus                      : Sicher
+Benutze Accurate Stream        : Ja
+Audio Puffer abgeschaltet      : Ja
+Benutze C2 Fehlerinformationen : Nein
+
+Leseoffset Korrektur                           : 667
+Überlesen in das Lead-In und Lead-Out          : Nein
+Fülle fehlende Offsetsample mit Stille auf     : Ja
+Lösche führende und nachfolgende stille Blöcke : Nein
+Null Samples gehen in CRC Berechnungen ein     : Ja
+Benutzte Schnittstelle                         : Natürliche Win32 Schnittstelle für Win NT/2000/XP
+Pausenbehandlung                               : Hinter dem vorigen Track angehängt
+
+Benutztes Ausgabeformat            : Benutzerdefinierter Komprimierer
+Gewählte Bitrate                   : 320 kBit/s
+Qualität                           : Hoch
+Füge ID3 Tag hinzu                 : Nein
+Kommandozeilen Komprimierer        : C:\Programme\Exact Audio Copy\fla\bin\flac.exe
+Zusätzliche Kommandozeilenoptionen : -8 -A tukey(0.25) -A gauss(0.1875) -b 4096 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s --sector-align
+Benutze Kompressionsoffset         : 0
+
+
+TOC der ausgelesenen CD
+
+     Track |   Start  |   Länge  | Startsektor | Endsektor 
+    -------------------------------------------------------
+        1  |  0:00.00 |  5:08.40 |        0    |   23139   
+        2  |  5:08.40 |  8:07.15 |    23140    |   59679   
+        3  | 13:15.55 |  6:03.31 |    59680    |   86935   
+        4  | 19:19.11 |  6:07.55 |    86936    |  114515   
+        5  | 25:26.66 |  6:04.53 |   114516    |  141868   
+        6  | 31:31.44 |  5:57.15 |   141869    |  168658   
+        7  | 37:28.59 |  6:58.47 |   168659    |  200055   
+        8  | 44:27.31 |  8:09.37 |   200056    |  236767   
+        9  | 52:36.68 | 11:31.57 |   236768    |  288649   
+       10  | 64:08.50 |  7:47.10 |   288650    |  323684   
+
+
+Track  1
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\01 Knocking At The Grand.wav
+
+     Pausenlänge  0:00:02.00
+
+     Spitzenpegel 99.6 %
+     Track Qualität 100.0 %
+     Kopie CRC 56309D3F
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+Track  2
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\02 Lohn & Brot.wav
+
+     Spitzenpegel 99.2 %
+     Track Qualität 100.0 %
+     Kopie CRC C257615E
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+Track  3
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\03 Le Ratafia.wav
+
+     Spitzenpegel 99.7 %
+     Track Qualität 100.0 %
+     Kopie CRC F5795D55
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+Track  4
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\04 Acid Bells.wav
+
+     Spitzenpegel 99.6 %
+     Track Qualität 100.0 %
+     Kopie CRC F6A95E98
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+Track  5
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\05 Back To School.wav
+
+     Spitzenpegel 99.7 %
+     Track Qualität 100.0 %
+     Kopie CRC 0A4ADCD9
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+Track  6
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\06 Stately, Yes..wav
+
+     Spitzenpegel 99.6 %
+     Track Qualität 100.0 %
+     Kopie CRC 17F1F6EB
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+Track  7
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\07 Further Back.wav
+
+     Spitzenpegel 99.7 %
+     Track Qualität 100.0 %
+     Kopie CRC 247F5A5C
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+Track  8
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\08 Salix Alba.wav
+
+     Spitzenpegel 99.8 %
+     Track Qualität 100.0 %
+     Kopie CRC 210A5137
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+Track  9
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\09 April Fools.wav
+
+     Spitzenpegel 99.6 %
+     Track Qualität 100.0 %
+     Kopie CRC 3169832B
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+Track 10
+
+     Dateiname D:\Skull V\flac for waffles\Efdemin\Efdemin\10 Bergwein.wav
+
+     Spitzenpegel 99.7 %
+     Track Qualität 100.0 %
+     Kopie CRC B7945D4E
+     Track ist nicht enthalten in der AccurateRip Datenbank
+     Kopie OK
+
+
+Keiner der Tracks ist in der AccurateRip Datenbank vorhanden
+
+Keine Fehler aufgetreten
+
+Ende des Statusreports
